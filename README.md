@@ -33,6 +33,7 @@ everyday operations.
 ## Personal projects
 
 - [Ponkcoding](https://ponkcoding.com), my personal publication about engineering notes, AI workflows, product experiments, and practical field reports
+- [Ayatura](https://ayatura.com/), an offline-first Flutter app that helps Muslims turn Quran memorization into a daily review system
 
 ## Connect
 
